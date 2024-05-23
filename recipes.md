@@ -126,3 +126,15 @@ Instructions
 2. Add a layer of the jello
 3. Add in the pre cut fruits
 4. Top it with some whipping cream
+
+### grilled cheese
+1. 2 slices of bread
+2. 2 slices of cheddar cheese
+3. 1 slice of mozzarella cheese
+4. spices as per taste
+
+Instructions 
+1. Butter the bread on both sides
+2. Add the slices of cheese
+3. Let it grill till cheese melts
+4. Add your spice
