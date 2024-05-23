@@ -80,6 +80,7 @@ Ingredients:
 - Lettuce
 - Tomato
 - Mayonnaise
+- Oregno and chili pepper
 
 Instructions:
 1. Preheat grill to medium-high heat.
