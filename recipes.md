@@ -54,9 +54,9 @@ Ingredients:
 - 1 pound ground beef
 - 1/2 cup bread crumbs
 - 1/4 cup milk
-- 1/4 cup grated Parmesan cheese
+- 1 cup grated Parmesan cheese
 - 1 egg
-- 2 cloves garlic, minced
+- 4 cloves garlic, minced
 - Salt and pepper to taste
 - 1 jar (24 oz) spaghetti sauce
 
@@ -113,3 +113,15 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### trifle pudding
+1. 1 can of pre cut fruit
+2. 1 box of jello
+3. 4 thinly cut slices of cake
+4. whipping cream
+
+Instructions
+1. Layer the cake at the bottom of a pan
+2. Add a layer of the jello
+3. Add in the pre cut fruits
+4. Top it with some whipping cream
